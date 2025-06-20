@@ -4,7 +4,7 @@
 
 自[https://github.com/Akilarlxh/live2d_api](https://github.com/Akilarlxh/live2d_api)修改而来，去掉了PHP API调用，修改了配置结构
 
-## 使用
+## 使用.
 
 >   model_list.json
 ```json
